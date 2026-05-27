@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "ordercelete",
+        "uuid": 15335319,
+        "checksum": "phhnxo"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
